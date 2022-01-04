@@ -30,12 +30,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav
 
-<audio controls>
-  <source src="https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav" type="audio/wav">
-您的浏览器不支持 audio 元素。
-</audio>
 
-​<audio id="audio" controls="" preload="none">
+<audio id="audio" controls="" preload="none">
       <source id="wav" src="https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav">
 </audio>
 
