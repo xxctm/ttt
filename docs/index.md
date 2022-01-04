@@ -35,6 +35,10 @@ https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav
 您的浏览器不支持 audio 元素。
 </audio>
 
+​<audio id="audio" controls="" preload="none">
+      <source id="wav" src="https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav">
+</audio>
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
