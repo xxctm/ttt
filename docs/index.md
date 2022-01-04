@@ -29,7 +29,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav
 
 
 <audio id="audio" controls="" preload="none">
@@ -37,16 +36,6 @@ https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav
 </audio>
 
 
-<iframe src="https://www.opendrive.com/player/NTBfMTk4NjIyNjlfelY1RGo" height="25" width="297" style="border:0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-
-
-<audio controls>
-  <source src="https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav" type="audio/wav">
-  <source src="https://od.lk/s/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav" type="audio/wav">
-您的浏览器不支持 audio 元素。
-</audio>
-
-<iframe src="//player.bilibili.com/player.html?aid=59317437&bvid=BV1Pt411G7qh&cid=103365806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="https://od.lk/d/NTBfMTk4NjIyNjlf/ca_15_sf3tf2_30001_n96.wav"></iframe>
 
