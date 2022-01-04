@@ -1,3 +1,4 @@
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xxctm/ttt/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
